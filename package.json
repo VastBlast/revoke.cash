@@ -47,5 +47,8 @@
     "eject": "react-scripts eject",
     "start": "react-scripts start",
     "test": "react-scripts test"
+  },
+  "engines": {
+    "node": "16.x"
   }
 }
